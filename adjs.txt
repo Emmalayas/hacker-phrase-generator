@@ -28,6 +28,7 @@ global
 dynamic 
 static
 multi-threaded
+new
 recursive
 open
 restricted
